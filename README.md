@@ -7,3 +7,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 
 | Date | Project | Language | Description |
 |------|---------|----------|-------------|
+| 2026-10-06 | [cron-next](projects/2026-10-06-cron-next/) | Python | Parse 5-field cron expressions and list the next run times |
