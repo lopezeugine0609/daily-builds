@@ -1,0 +1,8 @@
+{
+  "name": "api-server",
+  "version": "1.4.0",
+  "port": 8080,
+  "features": ["auth", "metrics", "cache"],
+  "db": { "host": "localhost", "pool": 10, "timeout": 2.5 },
+  "meta": { "updated": "2026-10-01" }
+}

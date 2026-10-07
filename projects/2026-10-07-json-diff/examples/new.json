@@ -1,0 +1,8 @@
+{
+  "name": "api-server",
+  "version": "1.5.0",
+  "port": "8080",
+  "features": ["auth", "tracing"],
+  "db": { "host": "db.internal", "timeout": 2.5000001, "ssl": true },
+  "meta": { "updated": "2026-10-07" }
+}
