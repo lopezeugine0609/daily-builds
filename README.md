@@ -11,3 +11,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-10-07 | [json-diff](projects/2026-10-07-json-diff/) | JavaScript | Structural diff of two JSON files as JSON paths, with ignore and numeric tolerance |
 | 2026-10-08 | [bloom-filter](projects/2026-10-08-bloom-filter/) | Python | Bloom filter with optimal sizing, double hashing, union, JSON persistence, and a CLI |
 | 2026-10-10 | [sudoku-solver](projects/2026-10-10-sudoku-solver/) | JavaScript | Sudoku solver with bitmask constraint propagation, MRV backtracking, and uniqueness check |
+| 2026-10-13 | [semver-tool](projects/2026-10-13-semver-tool/) | Python | SemVer 2.0.0 parse/compare/sort/bump plus npm-style range matching (^, ~, x, hyphen, \|\|) |
