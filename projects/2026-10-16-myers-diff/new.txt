@@ -1,0 +1,6 @@
+apple
+blueberry
+cherry
+date
+fig
+grape
