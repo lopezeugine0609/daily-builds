@@ -14,3 +14,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-10-13 | [semver-tool](projects/2026-10-13-semver-tool/) | Python | SemVer 2.0.0 parse/compare/sort/bump plus npm-style range matching (^, ~, x, hyphen, \|\|) |
 | 2026-10-15 | [md-toc](projects/2026-10-15-md-toc/) | JavaScript | Markdown TOC generator with GitHub-compatible slugs, in-place marker injection, and a CI --check mode |
 | 2026-10-16 | [myers-diff](projects/2026-10-16-myers-diff/) | Python | Myers O(ND) line diff from scratch with unified hunks, -U context, --stat, and color |
+| 2026-10-17 | [env-check](projects/2026-10-17-env-check/) | JavaScript | Lint .env files and diff them against .env.example: missing/extra/duplicate/empty keys, quoting, CI exit codes |
