@@ -16,3 +16,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-10-16 | [myers-diff](projects/2026-10-16-myers-diff/) | Python | Myers O(ND) line diff from scratch with unified hunks, -U context, --stat, and color |
 | 2026-10-17 | [env-check](projects/2026-10-17-env-check/) | JavaScript | Lint .env files and diff them against .env.example: missing/extra/duplicate/empty keys, quoting, CI exit codes |
 | 2026-10-18 | [exact-calc](projects/2026-10-18-exact-calc/) | Python | Exact rational calculator: shunting-yard to RPN, Fraction math, functions, variables, exact sqrt |
+| 2026-10-19 | [dupe-find](projects/2026-10-19-dupe-find/) | JavaScript | Find duplicate files via size, 4 KiB prefix hash, then full SHA-256; reclaimable-space report, JSON, CI exit codes |
