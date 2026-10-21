@@ -18,3 +18,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-10-18 | [exact-calc](projects/2026-10-18-exact-calc/) | Python | Exact rational calculator: shunting-yard to RPN, Fraction math, functions, variables, exact sqrt |
 | 2026-10-19 | [dupe-find](projects/2026-10-19-dupe-find/) | JavaScript | Find duplicate files via size, 4 KiB prefix hash, then full SHA-256; reclaimable-space report, JSON, CI exit codes |
 | 2026-10-20 | [huffman](projects/2026-10-20-huffman/) | Python | Canonical Huffman coder: compress/decompress files, code table vs. Shannon entropy, corruption checks |
+| 2026-10-21 | [cidr-calc](projects/2026-10-21-cidr-calc/) | JavaScript | IPv4 subnet calculator: info, contains (exit codes), split, and minimal CIDR summarize of ranges |
