@@ -1,0 +1,5 @@
+# build graph
+app: lib, utils
+lib: utils
+tests: app
+docs
