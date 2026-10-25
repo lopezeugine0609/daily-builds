@@ -1,0 +1,7 @@
+order_id,customer,amount,paid,ordered_on,note
+1001,Ana Reyes,1250.50,yes,2026-10-01,"rush, gift wrap"
+1002,Ben Cruz,89,no,2026-10-02,
+1003,Ana Reyes,430.25,yes,2026-10-03,repeat buyer
+1004,Carlo Santos,NA,no,2026-10-05,awaiting quote
+1005,Dina Lim,2999.99,yes,2026-10-07,
+1006,Ben Cruz,15,yes,2026-10-09,sample pack
