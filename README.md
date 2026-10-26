@@ -22,3 +22,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-10-22 | [topo-sort](projects/2026-10-22-topo-sort/) | Python | Dependency sorter: Kahn topological order, parallel levels, target closure, cycle path reporting |
 | 2026-10-23 | [countdown-solver](projects/2026-10-23-countdown-solver/) | JavaScript | Countdown numbers-game solver: fewest-ops exact answer or closest, deduplicated --all solutions, JSON, exit codes |
 | 2026-10-25 | [csv-peek](projects/2026-10-25-csv-peek/) | Python | CSV previewer and profiler: sniffed delimiter, aligned table, per-column type inference, nulls/distinct/min/max/mean/top, JSON |
+| 2026-10-26 | [template-engine](projects/2026-10-26-template-engine/) | JavaScript | Zero-dependency template engine supporting variables, dot notation, custom filters, conditionals, and loops |
