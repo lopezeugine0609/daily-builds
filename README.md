@@ -23,3 +23,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-10-23 | [countdown-solver](projects/2026-10-23-countdown-solver/) | JavaScript | Countdown numbers-game solver: fewest-ops exact answer or closest, deduplicated --all solutions, JSON, exit codes |
 | 2026-10-25 | [csv-peek](projects/2026-10-25-csv-peek/) | Python | CSV previewer and profiler: sniffed delimiter, aligned table, per-column type inference, nulls/distinct/min/max/mean/top, JSON |
 | 2026-10-26 | [template-engine](projects/2026-10-26-template-engine/) | JavaScript | Zero-dependency template engine supporting variables, dot notation, custom filters, conditionals, and loops |
+| 2026-10-29 | [bk-tree](projects/2026-10-29-bk-tree/) | Python | BK-tree fuzzy word lookup: Levenshtein with early exit, triangle-inequality pruning, did-you-mean CLI, JSON, exit codes |
