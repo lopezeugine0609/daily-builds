@@ -1,0 +1,7 @@
+# two diagonal solutions
+rows
+1
+1
+cols
+1
+1
