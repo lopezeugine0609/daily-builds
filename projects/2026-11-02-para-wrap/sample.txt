@@ -1,0 +1,3 @@
+Greedy line breaking fills each line with as many words as will fit, which is fast but can leave an awkward short line in the middle of a paragraph. Optimal breaking looks at the whole paragraph at once.
+
+Dynamic programming makes this cheap: every suffix of the paragraph is solved once and reused.

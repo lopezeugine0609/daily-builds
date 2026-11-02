@@ -27,3 +27,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-10-30 | [jwt-inspect](projects/2026-10-30-jwt-inspect/) | JavaScript | Offline JWT debugger: decode header/payload, exp/nbf/iat status with leeway, HS256/384/512 verify and sign, JSON, exit codes |
 | 2026-10-31 | [nonogram-solver](projects/2026-10-31-nonogram-solver/) | Python | Nonogram/Picross solver: DP line solver, row/col propagation, backtracking search, uniqueness check, JSON, exit codes |
 | 2026-11-01 | [commit-lint](projects/2026-11-01-commit-lint/) | JavaScript | Conventional Commits linter: header/type/scope/subject/body/footer rules, BREAKING detection, git-range mode, hook-ready, JSON, exit codes |
+| 2026-11-02 | [para-wrap](projects/2026-11-02-para-wrap/) | Python | Optimal paragraph wrapper: min-raggedness DP line breaking (Knuth-Plass core) vs greedy, justify/right/center, --compare scores, JSON |
