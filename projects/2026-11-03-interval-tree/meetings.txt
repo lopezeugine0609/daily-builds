@@ -1,0 +1,6 @@
+# meetings (24h, decimal hours)
+9 10.5 standup
+10 12 design review
+13 14 lunch
+13.5 15 1:1 with Ana
+16-17 deploy window

@@ -28,3 +28,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-10-31 | [nonogram-solver](projects/2026-10-31-nonogram-solver/) | Python | Nonogram/Picross solver: DP line solver, row/col propagation, backtracking search, uniqueness check, JSON, exit codes |
 | 2026-11-01 | [commit-lint](projects/2026-11-01-commit-lint/) | JavaScript | Conventional Commits linter: header/type/scope/subject/body/footer rules, BREAKING detection, git-range mode, hook-ready, JSON, exit codes |
 | 2026-11-02 | [para-wrap](projects/2026-11-02-para-wrap/) | Python | Optimal paragraph wrapper: min-raggedness DP line breaking (Knuth-Plass core) vs greedy, justify/right/center, --compare scores, JSON |
+| 2026-11-03 | [interval-tree](projects/2026-11-03-interval-tree/) | JavaScript | Treap-balanced augmented interval tree: O(log n + k) stab/overlap queries, delete, merge, gaps, stats CLI, JSON, exit codes |
