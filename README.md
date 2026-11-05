@@ -30,3 +30,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-11-02 | [para-wrap](projects/2026-11-02-para-wrap/) | Python | Optimal paragraph wrapper: min-raggedness DP line breaking (Knuth-Plass core) vs greedy, justify/right/center, --compare scores, JSON |
 | 2026-11-03 | [interval-tree](projects/2026-11-03-interval-tree/) | JavaScript | Treap-balanced augmented interval tree: O(log n + k) stab/overlap queries, delete, merge, gaps, stats CLI, JSON, exit codes |
 | 2026-11-04 | [cache-sim](projects/2026-11-04-cache-sim/) | Python | Cache replacement simulator: LRU, FIFO, LFU and Belady OPT hit rates over an access trace, capacity sweep, JSON |
+| 2026-11-05 | [radix-router](projects/2026-11-05-radix-router/) | JavaScript | Radix tree HTTP router with static, parametric (:param), and wildcard (*wild) segments, conflict detection, and introspection |
