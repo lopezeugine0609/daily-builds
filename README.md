@@ -33,3 +33,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-11-05 | [radix-router](projects/2026-11-05-radix-router/) | JavaScript | Radix tree HTTP router with static, parametric (:param), and wildcard (*wild) segments, conflict detection, and introspection |
 | 2026-11-06 | [md-table](projects/2026-11-06-md-table/) | Python | Markdown table formatter, aligner, sorter, and validator with CLI |
 | 2026-11-08 | [unit-convert](projects/2026-11-08-unit-convert/) | Python | Exact unit converter with dimensional analysis: compound units (km/h, N*m), exact Fraction factors, temperatures, JSON, exit codes |
+| 2026-11-10 | [gitignore-check](projects/2026-11-10-gitignore-check/) | JavaScript | Offline .gitignore evaluator: last-rule-wins, anchoring, **, dir-only, parent-dir rule, --walk, JSON, exit codes |
