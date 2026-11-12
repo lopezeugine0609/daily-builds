@@ -1,0 +1,10 @@
+2026-11-12T08:30:01.104Z INFO  request 3f2504e0-4f89-11d3-9a0c-0305e82c3301 GET /api/users 200 took 12 ms
+2026-11-12T08:30:01.250Z INFO  request 9b1deb4d-3b7d-4bad-9bdb-2b0d7b3dcb6d GET /api/users/42 200 took 8 ms
+2026-11-12T08:30:02.031Z WARN  slow query took 1532 ms table "orders"
+2026-11-12T08:30:02.400Z INFO  request 0c9a1f2e-5d6b-4a1e-8f3c-7b2d9e4f1a6c GET /api/orders 500 took 47 ms
+2026-11-12T08:30:03.007Z ERROR upstream 10.0.0.12:5432 refused connection
+2026-11-12T08:30:03.210Z ERROR upstream 10.0.0.13:5432 refused connection
+2026-11-12T08:30:04.512Z INFO  cache hit key "user:42" ttl 300
+2026-11-12T08:30:04.600Z INFO  cache hit key "user:7" ttl 300
+2026-11-12T08:30:05.001Z INFO  cache miss key "user:99" ttl 300
+2026-11-12T08:30:05.330Z ERROR panic at 0xDEADBEEF worker 3
