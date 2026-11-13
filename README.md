@@ -35,3 +35,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-11-08 | [unit-convert](projects/2026-11-08-unit-convert/) | Python | Exact unit converter with dimensional analysis: compound units (km/h, N*m), exact Fraction factors, temperatures, JSON, exit codes |
 | 2026-11-10 | [gitignore-check](projects/2026-11-10-gitignore-check/) | JavaScript | Offline .gitignore evaluator: last-rule-wins, anchoring, **, dir-only, parent-dir rule, --walk, JSON, exit codes |
 | 2026-11-12 | [log-cluster](projects/2026-11-12-log-cluster/) | Python | Log template clusterer: masks UUIDs, IPs, timestamps, hex, strings and numbers, ranks clusters with examples, JSON, exit codes |
+| 2026-11-13 | [slug-rename](projects/2026-11-13-slug-rename/) | JavaScript | Batch-rename files to lowercase ASCII slugs: dry run by default, collision suffixes, journaled --apply with --undo |
