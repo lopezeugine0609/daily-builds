@@ -36,3 +36,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-11-10 | [gitignore-check](projects/2026-11-10-gitignore-check/) | JavaScript | Offline .gitignore evaluator: last-rule-wins, anchoring, **, dir-only, parent-dir rule, --walk, JSON, exit codes |
 | 2026-11-12 | [log-cluster](projects/2026-11-12-log-cluster/) | Python | Log template clusterer: masks UUIDs, IPs, timestamps, hex, strings and numbers, ranks clusters with examples, JSON, exit codes |
 | 2026-11-13 | [slug-rename](projects/2026-11-13-slug-rename/) | JavaScript | Batch-rename files to lowercase ASCII slugs: dry run by default, collision suffixes, journaled --apply with --undo |
+| 2026-11-14 | [mst](projects/2026-11-14-mst-kruskal/) | Python | Minimum spanning tree via Kruskal (union-find) and Prim (heap) with exact fraction weights, --verify cross-check, forest mode, JSON, exit codes |
