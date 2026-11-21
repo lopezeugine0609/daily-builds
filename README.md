@@ -38,3 +38,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-11-13 | [slug-rename](projects/2026-11-13-slug-rename/) | JavaScript | Batch-rename files to lowercase ASCII slugs: dry run by default, collision suffixes, journaled --apply with --undo |
 | 2026-11-14 | [mst](projects/2026-11-14-mst-kruskal/) | Python | Minimum spanning tree via Kruskal (union-find) and Prim (heap) with exact fraction weights, --verify cross-check, forest mode, JSON, exit codes |
 | 2026-11-20 | [truth-table](projects/2026-11-20-truth-table/) | JavaScript | Boolean logic workbench: expression parser, truth tables, tautology/contradiction check, equivalence counterexamples, Quine-McCluskey minimization, JSON, exit codes |
+| 2026-11-21 | [skip-list](projects/2026-11-21-skip-list/) | Python | Indexable skip list ordered map: O(log n) get/set/delete, rank, k-th element, range, floor/ceiling, invariant checker, tower diagram CLI |
