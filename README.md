@@ -40,3 +40,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-11-20 | [truth-table](projects/2026-11-20-truth-table/) | JavaScript | Boolean logic workbench: expression parser, truth tables, tautology/contradiction check, equivalence counterexamples, Quine-McCluskey minimization, JSON, exit codes |
 | 2026-11-21 | [skip-list](projects/2026-11-21-skip-list/) | Python | Indexable skip list ordered map: O(log n) get/set/delete, rank, k-th element, range, floor/ceiling, invariant checker, tower diagram CLI |
 | 2026-11-23 | [hexdump](projects/2026-11-23-hexdump/) | JavaScript | xxd-style hex dumper: grouping, skip/length windows, squeeze, plain/C-array output, reverse mode (dump -> bytes), exit codes |
+| 2026-11-24 | [dice-prob](projects/2026-11-24-dice-prob/) | Python | Exact dice probability calculator: NdS, keep/drop (kh/kl/dh/dl), Fudge, d%, sums; Fraction math, order-statistic DP, queries, histogram, JSON |
