@@ -42,3 +42,4 @@ Each project lives in `projects/YYYY-MM-DD-name/` with its own README and tests.
 | 2026-11-23 | [hexdump](projects/2026-11-23-hexdump/) | JavaScript | xxd-style hex dumper: grouping, skip/length windows, squeeze, plain/C-array output, reverse mode (dump -> bytes), exit codes |
 | 2026-11-24 | [dice-prob](projects/2026-11-24-dice-prob/) | Python | Exact dice probability calculator: NdS, keep/drop (kh/kl/dh/dl), Fudge, d%, sums; Fraction math, order-statistic DP, queries, histogram, JSON |
 | 2026-11-25 | [epoch-conv](projects/2026-11-25-epoch-conv/) | JavaScript | Timestamp converter: epoch s/ms/us/ns auto-detect, ISO 8601 with offsets, relative (now-3h), --tz, --diff durations, BigInt ns precision, JSON, exit codes |
+| 2026-11-26 | [grid-path](projects/2026-11-26-grid-path/) | Python | ASCII grid pathfinder: BFS, Dijkstra and A* with weighted terrain, 8-way moves without corner cutting, path render, algorithm comparison, JSON, exit codes |
